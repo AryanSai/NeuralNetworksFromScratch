@@ -1,4 +1,5 @@
-# Neural Networks From Scratch
-I am on this journey to relearn Neural Networks by coding in Python.
+# Neural Networks From Scratch 🌐
+I am on this journey to unlaern and relearn Neural Networks by coding in bare Python without Pytorch!
 
-#1. Coding Neuron and Layers in bare python
+#  1. Coding Neuron and Layers in bare python
+#  2. Coding Neuron and Layers with Numpy
